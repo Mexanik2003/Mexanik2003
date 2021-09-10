@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey! 👋
+I'm Alex, a 38 years old web developer from Russia.
 
-<!--
-**Mexanik2003/Mexanik2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Founder at [@Mexanik2003](https://github.com/Mexanik2003)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 NodeJS, Koa, JavaScript, PHP
+- ⚙️ React, JQuery
+- 👁️ HTML, CSS
+- 💽 PostgreSQL, Knex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [mexanik2003@list.ru]([mexanik2003@list.ru)
+- [@itburg](@itburg) on Telegram
+
+### Link to my reps
+
+## Frontend
+- [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) - ReactJS
+## Backend
+
+## Learning
+
+## Algorytmic tasks

@@ -16,8 +16,9 @@ I'm Alex, a 38 years old web developer from Russia.
 ### Link to my reps
 
 ## Frontend
-- [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) - ReactJS
+- [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) - ReactJS App ("front" folder)
 ## Backend
+- [backend for Table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) - NodeJS, Koa, Knex, PostgreSQL
 
 ## Learning
 

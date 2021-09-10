@@ -23,3 +23,6 @@ I'm Alex, a 38 years old web developer from Russia.
 ## Learning
 
 ## Algorytmic tasks
+- [parsing brackets](https://github.com/Mexanik2003/contests/tree/master/algorytms/skobochnye_posledovatelnosti) - task from Contest
+
+## Bad practices

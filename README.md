@@ -16,7 +16,7 @@
 ### Ссылки на репозитории
 
 ## Frontend
-- Фронт Angular: [List sorting and filtering, routing, place on Yandex Maps](listhttps://github.com/Mexanik2003/test-front)
+- Фронт Angular: [List sorting and filtering, routing, place on Yandex Maps](https://github.com/Mexanik2003/test-front)
 - Фронт ReactJS: [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) ("front" folder)
 - Верстка на 4 разрешения HTML, CSS, минимум JQueryUI - [HTML coding](https://github.com/Mexanik2003/sm-test)
 - Верстка HTML, чистый CSS (включая анимацию)[frontpage HTML coding](https://github.com/Mexanik2003/cgkb3.ru)

@@ -9,9 +9,9 @@
 - 👁️ HTML, CSS3
 - 💽 PostgreSQL, Knex
 
-## Contact
+## Контакты
 - [mexanik2003@list.ru]([mexanik2003@list.ru)
-- [@itburg](@itburg) on Telegram
+- [@itburg](@itburg) в Telegram
 
 ### Ссылки на репозитории
 

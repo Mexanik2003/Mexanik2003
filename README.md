@@ -15,6 +15,11 @@
 
 ## Ссылки на работы Node.js
 
+### DevOps
+
+- Личный VDS с Nginx, Node.js, PM2, Mongo, Postgres: [project-hub.ru](http://project-hub.ru)
+На нем работают все нижеуказанные фронты и бэки.
+
 ### Frontend
 - Фронт Angular: [List sorting and filtering, routing, place on Yandex Maps](https://github.com/Mexanik2003/test-front)
 - Фронт ReactJS: [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) ("front" folder)

@@ -5,8 +5,8 @@
 
 ## Инструменты разработки
 - 👨‍💻 NodeJS, Koa, JavaScript, PHP
-- ⚙️ Angular, React
-- 👁️ HTML, CSS3
+- ⚙️ AngularJS, Angular, React
+- 👁️ HTML, CSS3, XML, xSLT
 - 💽 PostgreSQL, Knex
 
 ## Контакты
@@ -17,7 +17,7 @@
 
 ### DevOps
 
-- Личный VDS с Nginx, Node.js, PM2, Mongo, Postgres: [project-hub.ru](http://project-hub.ru)
+- Личный VDS с Nginx, Node.js, PM2, Mongo, Postgres: [project-hub.ru](http://ad.project-hub.ru)
 На нем работают все нижеуказанные фронты и бэки.
 
 ### Frontend

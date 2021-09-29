@@ -25,7 +25,7 @@
 
 ### Frontend
 - Фронт Angular: [Демо](http://art-test.ad.project-hub.ru/) | [Код и ReadMe](https://github.com/Mexanik2003/test-front/tree/main/art-test) Динамическая фильтрация списка компаний и отображение на Яндекс-карте 
-- Фронт ReactJS: [Демо](http://react-table-sort.ad.project-hub.ru/) | [Код и ReadMe](https://github.com/Mexanik2003/react-table-sort) Таблица: динамическая фильтрация, сортировка и пагинация средствами ReactJS
+- Фронт ReactJS: [Демо](http://react-table-sort.ad.project-hub.ru/) | [Код и ReadMe](https://github.com/Mexanik2003/react-table-sort) Таблица: динамическая фильтрация, сортировка и пагинация средствами ReactJS + бэкенд
 ### Верстка
 - Лендинг: [Демо](https://mexanik2003.github.io/sm-test/) | [Код и ReadMe](https://github.com/Mexanik2003/sm-test) (Лендинг на 4 разрешения, с калькулятором на JQuery)
 ### Backend

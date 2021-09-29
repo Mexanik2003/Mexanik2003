@@ -18,7 +18,7 @@
 ### DevOps
 
 - Личный VDS с Nginx, Node.js, PM2, Mongo, Postgres: [project-hub.ru](http://ad.project-hub.ru)
-На нем работают все нижеуказанные фронты и бэки.
+На нем работают некоторые фронты и бэки.
 
 ### FullStack
 - [Сайт](https://cgkb3.ru) на Wordpress (верстка на чистом CSS, интеграция, логика, размещение на хостинге, подключение SSL) 

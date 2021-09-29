@@ -20,11 +20,13 @@
 - Личный VDS с Nginx, Node.js, PM2, Mongo, Postgres: [project-hub.ru](http://ad.project-hub.ru)
 На нем работают все нижеуказанные фронты и бэки.
 
+### FullStack
+- [Сайт](https://cgkb3.ru) на Wordpress (верстка на чистом CSS, интеграция, логика, размещение на хостинге, подключение SSL) 
+
 ### Frontend
-- Фронт Angular: [Демо](http://art-test.ad.project-hub.ru/) [Код и ReadMe](https://github.com/Mexanik2003/test-front) Динамическая фильтрация списка компаний и отображение на Яндекс-карте 
+- Фронт Angular: [Демо](http://art-test.ad.project-hub.ru/) [Код и ReadMe](https://github.com/Mexanik2003/test-front/tree/main/art-test) Динамическая фильтрация списка компаний и отображение на Яндекс-карте 
 - Фронт ReactJS: [Демо](http://react-table-sort.ad.project-hub.ru/) [Код и ReadMe](https://github.com/Mexanik2003/react-table-sort) Таблица: динамическая фильтрация, сортировка и пагинация средствами ReactJS
 - Верстка - [Демо](https://mexanik2003.github.io/sm-test/) [Код и ReadMe](https://github.com/Mexanik2003/sm-test) (Лендинг на 4 разрешения, с калькулятором на JQuery)
-- Верстка HTML, чистый CSS (включая анимацию)[frontpage HTML coding](https://github.com/Mexanik2003/cgkb3.ru)
 ### Backend
 - NodeJS, Koa, Knex, PostgreSQL: [backend for Table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort)
 - NodeJS, Koa, Knex, PostgreSQL: [get and post lessons](https://github.com/Mexanik2003/mk-test)

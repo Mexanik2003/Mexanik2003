@@ -21,9 +21,9 @@
 На нем работают все нижеуказанные фронты и бэки.
 
 ### Frontend
-- Фронт Angular: [List sorting and filtering, routing, place on Yandex Maps](https://github.com/Mexanik2003/test-front)
-- Фронт ReactJS: [table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort) ("front" folder)
-- Верстка на 4 разрешения HTML, CSS, минимум JQueryUI - [HTML coding](https://github.com/Mexanik2003/sm-test)
+- Фронт Angular: [Демо](http://art-test.ad.project-hub.ru/) [Код и ReadMe](https://github.com/Mexanik2003/test-front) Динамическая фильтрация списка компаний и отображение на Яндекс-карте 
+- Фронт ReactJS: [Демо](http://react-table-sort.ad.project-hub.ru/) [Код и ReadMe](https://github.com/Mexanik2003/react-table-sort) Таблица: динамическая фильтрация, сортировка и пагинация средствами ReactJS
+- Верстка - [Демо](https://mexanik2003.github.io/sm-test/) [Код и ReadMe](https://github.com/Mexanik2003/sm-test) (Лендинг на 4 разрешения, с калькулятором на JQuery)
 - Верстка HTML, чистый CSS (включая анимацию)[frontpage HTML coding](https://github.com/Mexanik2003/cgkb3.ru)
 ### Backend
 - NodeJS, Koa, Knex, PostgreSQL: [backend for Table filtering, sorting and Pagination](https://github.com/Mexanik2003/react-table-sort)

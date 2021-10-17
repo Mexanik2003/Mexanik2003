@@ -4,10 +4,10 @@
 - 🧭 Мой профиль [@Mexanik2003](https://github.com/Mexanik2003)
 
 ## Инструменты разработки
-- 👨‍💻 NodeJS, Koa, JavaScript, PHP
-- ⚙️ AngularJS, Angular, React
-- 👁️ HTML, CSS3, XML, xSLT
-- 💽 PostgreSQL, Knex
+- 👨‍💻 Языки: JS (node.js), TypeScript, PHP
+- ⚙️ Фронт: ReactJS, слегка Angular, AngularJS
+- 👁️ Разметка: HTML, CSS3, XML, xSLT
+- 💽 Бэк: ExpressJS/Koa, Knex, PostgreSQL, MongoDB
 
 ## Контакты
 - [mexanik2003@list.ru]([mexanik2003@list.ru)
